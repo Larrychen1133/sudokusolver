@@ -26,7 +26,7 @@ git clone https://github.com/Larrychen1133/sudoku-solver.git
 
 2. Change into the project directory:
 
-cd sudoku-solver
+cd sudokusolver
 
 
 ### Usage
